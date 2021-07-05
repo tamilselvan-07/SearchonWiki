@@ -1,10 +1,8 @@
-# SearchonWiki
-
+# Search on Wikipedia
 
 <h2>Documentation</h2>
 <br>
 <p>Read the docs at <a href="https://wikipedia.readthedocs.org/en/latest/" rel="nofollow">https://wikipedia.readthedocs.org/en/latest/</a>.</p>
-
 
 <h2>Installation</h2>
 <br>
@@ -12,9 +10,6 @@
 <pre>$ pip install wikipedia
 </pre>
 <p>Wikipedia is compatible with Python 2.6+ (2.7+ to run unittest discover) and Python 3.3+.</p>
-
-
-
 
 <h2>Credits</h2>
 <br>
