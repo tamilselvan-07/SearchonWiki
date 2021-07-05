@@ -1,5 +1,10 @@
 # Search on Wikipedia
-
+<p><strong>Wikipedia</strong> is a Python library that makes it easy to access and parse
+data from Wikipedia.</p>
+<p>Search Wikipedia, get article summaries, get data like links and images
+from a page, and more. Wikipedia wraps the <a href="https://www.mediawiki.org/wiki/API" rel="nofollow">MediaWiki
+API</a> so you can focus on using
+Wikipedia data, not getting it.</p>
 <h2>Documentation</h2>
 <br>
 <p>Read the docs at <a href="https://wikipedia.readthedocs.org/en/latest/" rel="nofollow">https://wikipedia.readthedocs.org/en/latest/</a>.</p>
